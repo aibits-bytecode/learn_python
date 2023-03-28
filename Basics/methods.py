@@ -26,3 +26,7 @@ class Student:
 s1 = Student(10, 12, 13)
 print(Student.getSchool())
 Student.info()
+
+
+
+
