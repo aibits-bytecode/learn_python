@@ -1,0 +1,3 @@
+Hi I am AI
+ words :4
+Please ask something words :3
